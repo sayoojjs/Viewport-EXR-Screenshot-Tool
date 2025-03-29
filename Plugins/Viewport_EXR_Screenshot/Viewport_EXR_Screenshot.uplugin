@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Viewport_EXR_Screenshot",
+	"Description": "Take High Dynamic Range EXR Screenshots from viewport ",
+	"Category": "Other",
+	"CreatedBy": "Sae",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://www.artstation.com/sayoojjs",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Viewport_EXR_Screenshot",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
