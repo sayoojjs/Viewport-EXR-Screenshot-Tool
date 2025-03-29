@@ -19,7 +19,7 @@ Then you will be able to see a new button on the toolbar further right
 
 From there, you can capture High Dynamic range EXR screenshots from the  viewport.
 
-             ![image](https://github.com/user-attachments/assets/ec54f4df-79cb-4479-bbc2-85dcdb1949f6)
+   ![image](https://github.com/user-attachments/assets/ec54f4df-79cb-4479-bbc2-85dcdb1949f6)
 
 
         This plugin requires Unreal Engine 5.5.4 and above 
