@@ -8,7 +8,7 @@
 1) Download the repository and extract the files
 3) Open the project
 4) Go to the plugins
-5) Enable Viewport EXR Screenshot
+5) Enable Viewport_EXR_Screenshot
    
 ![image](https://github.com/user-attachments/assets/50eff91e-2a13-4d09-8693-4273f9f9648e)
 
