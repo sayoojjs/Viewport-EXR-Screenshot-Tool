@@ -17,7 +17,7 @@ Then you will be able to see a new button on the toolbar further right
 
 ![image](https://github.com/user-attachments/assets/042d0b76-c9bd-41a5-bd7e-72a79a7f19b8)
 
-From there, click the button and capture the High Dynamic range EXR screenshots from the viewport.
+Click the button and capture the High Dynamic range EXR screenshots from the viewport.
 
    ![image](https://github.com/user-attachments/assets/ec54f4df-79cb-4479-bbc2-85dcdb1949f6)
 
