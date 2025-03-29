@@ -5,7 +5,8 @@
 
 # How to use the plugin
 
-1) Download the latest release and extract the files to the ProjectDirectory/plugins
+1) Download the latest release from https://github.com/sayoojjs/Viewport-EXR-Screenshot-Tool/releases/tag/v1.0
+2) Extract the files to the ProjectDirectory/plugins
 3) Open the project
 4) Go to Edit -> plugins
 5) Enable Viewport_EXR_Screenshot
