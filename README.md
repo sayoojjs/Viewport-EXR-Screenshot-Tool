@@ -1,7 +1,7 @@
 # Viewport EXR Screenshot Tool
  Capture High Dynamic Range EXR from the toolbar in Unreal Engine 5
- ![image](https://github.com/user-attachments/assets/b7f7e7fa-f3d9-431a-bcea-89c517c78ef0)
-
+ 
+![image](https://github.com/user-attachments/assets/f5661f0b-1e4a-4873-b097-ae2a7e86d412)
 
 # How to use the plugin
 
