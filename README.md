@@ -6,7 +6,6 @@
 # How to use the plugin
 
 1) Download the repository and extract the files
-2) Extract the files
 3) Open the project
 4) Go to the plugins
 5) Enable Viewport EXR Screenshot
