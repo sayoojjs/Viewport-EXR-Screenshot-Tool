@@ -22,5 +22,5 @@ Click the button and capture the High Dynamic range EXR screenshots from the vie
    ![image](https://github.com/user-attachments/assets/ec54f4df-79cb-4479-bbc2-85dcdb1949f6)
 
 
-   _This plugin requires Unreal Engine 5.5.4_
+      _This plugin requires Unreal Engine 5.5.4_
  
