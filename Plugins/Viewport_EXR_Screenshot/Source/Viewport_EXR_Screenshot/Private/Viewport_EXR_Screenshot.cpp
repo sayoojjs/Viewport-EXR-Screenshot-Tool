@@ -23,6 +23,11 @@
 #include "CoreMinimal.h"
 #include "Engine.h"
 #include "GameFramework/Actor.h"
+#include "Viewport_EXR_Screenshot.h"
+#include "LevelEditor.h"
+#include "Widgets/Docking/SDockTab.h"
+#include "Widgets/Text/STextBlock.h"
+#include "Widgets/SResolutionSliderPanel.h"
 
 static const FName Viewport_EXR_ScreenshotTabName("Viewport_EXR_Screenshot");
 
@@ -90,9 +95,6 @@ void FViewport_EXR_ScreenshotModule::PluginButtonClicked()
 		FText::FromString(TEXT("Viewport_EXR_Screenshot.cpp"))
 	);
 	FMessageDialog::Open(EAppMsgType::Ok, DialogText);
-
-
-
 }
 
 //EXR Console Command Executor

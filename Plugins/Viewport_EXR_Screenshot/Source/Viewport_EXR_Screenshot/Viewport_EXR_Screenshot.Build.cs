@@ -26,8 +26,9 @@ public class Viewport_EXR_Screenshot : ModuleRules
 			new string[]
 			{
 				"Core",
-				// ... add other public dependencies that you statically link with here ...
-			}
+				//slate UI
+				"Slate", "SlateCore", "UnrealEd", "EditorStyle"
+            }
 			);
 			
 		

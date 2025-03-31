@@ -2,6 +2,7 @@
 
 #pragma once
 
+#include "CoreMinimal.h"
 #include "Modules/ModuleManager.h"
 
 class FToolBarBuilder;
@@ -22,7 +23,8 @@ public:
 private:
 
 	void RegisterMenus();
-
+	void AddToolbarbutton(FToolBarBuilder& Builder);
+	void OpenResoltionSlideWindow();
 
 private:
 	TSharedPtr<class FUICommandList> PluginCommands;
