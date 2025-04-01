@@ -1,4 +1,4 @@
-# Viewport EXR Screenshot Tool    ![Static Badge](https://img.shields.io/badge/GPL-3.0-red)
+# Viewport EXR Screenshot Tool   ![Static Badge](https://img.shields.io/badge/Development-v1.1-red)
 
  Capture High Dynamic Range EXR from the toolbar in Unreal Engine 5
  
