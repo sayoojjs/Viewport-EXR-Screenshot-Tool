@@ -1,4 +1,4 @@
-# Viewport EXR Screenshot Tool [![License](https://img.shields.io/badge/license-BSD%203--Clause-blue.svg?style=flat-square)](https://github.com/mikaelsundell/brawtool/blob/master/README.md)
+# Viewport EXR Screenshot Tool [[![License](https://img.shields.io/badge/license-BSD%203--Clause-blue.svg?style=flat-square)](https://github.com/mikaelsundell/brawtool/blob/master/README.md)](https://github.com/sayoojjs/Viewport-EXR-Screenshot-Tool)
  Capture High Dynamic Range EXR from the toolbar in Unreal Engine 5
  
 ![Github strip banner](https://github.com/user-attachments/assets/60a154cf-bdcc-4116-991f-5addf495ae1a)
